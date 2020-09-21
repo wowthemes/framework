@@ -1,6 +1,6 @@
 {
-  "name": "getherbert/framework",
-  "description": "Herbert",
+  "name": "wowthemes/framework",
+  "description": "WowThemes",
   "license": "MIT",
   "require": {
     "twig/twig": "~1.16",
